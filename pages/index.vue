@@ -70,7 +70,7 @@
           >
             Continue
           </v-btn>
-          <v-btn to="/hello">Hello 1</v-btn>
+          <v-btn to="/hello">Hello 11</v-btn>
           <v-btn @click="hello">Trying Github pages</v-btn>
         </v-card-actions>
       </v-card>
